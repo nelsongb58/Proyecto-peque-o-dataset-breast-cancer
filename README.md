@@ -12,4 +12,4 @@ Este proyecto explora el dataset de diagnóstico de cáncer de mama de Wisconsin
 Disponible en [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## Autor
-Nelson Garrido – Bioquímico especializado en ciencia de datos
+Nelson Garrido – Bioquímico especializado en analisis de datos
